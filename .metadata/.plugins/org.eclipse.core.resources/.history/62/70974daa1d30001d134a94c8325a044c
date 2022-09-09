@@ -1,0 +1,147 @@
+2022-09-09 10:51:35.240  INFO 17628 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 17628 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-09 10:51:35.240  INFO 17628 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-09-09 10:51:35.368  INFO 17628 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-09 10:51:35.369  INFO 17628 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-09 10:51:35.370  INFO 17628 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 10:51:35.387  INFO 17628 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-09 10:51:35.387  INFO 17628 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 144 ms
+2022-09-09 10:51:35.430  INFO 17628 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-09 10:51:35.435  INFO 17628 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 10:51:35.437  INFO 17628 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : Started MyFirstProjectApplication in 0.235 seconds (JVM running for 38.775)
+2022-09-09 10:51:35.438  INFO 17628 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-09-09 10:51:35.439  INFO 17628 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : An INFO Message
+2022-09-09 10:51:35.439  WARN 17628 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : A WARN Message
+2022-09-09 10:51:35.439 ERROR 17628 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : A ERROR Message
+2022-09-09 10:52:09.714  INFO 17628 --- [RMI TCP Connection(3)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-09-09 10:52:09.738  INFO 17628 --- [RMI TCP Connection(3)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-09 10:52:13.807  INFO 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 24212 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-09 10:52:13.808  INFO 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-09-09 10:52:13.846  INFO 24212 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-09 10:52:13.846  INFO 24212 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-09 10:52:14.508  INFO 24212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-09 10:52:14.516  INFO 24212 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-09 10:52:14.516  INFO 24212 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 10:52:14.572  INFO 24212 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-09 10:52:14.573  INFO 24212 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 727 ms
+2022-09-09 10:52:14.816  INFO 24212 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-09 10:52:14.852  INFO 24212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 10:52:14.859  INFO 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : Started MyFirstProjectApplication in 1.359 seconds (JVM running for 1.978)
+2022-09-09 10:52:14.861  INFO 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : An INFO Message
+2022-09-09 10:52:14.861  WARN 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : A WARN Message
+2022-09-09 10:52:14.861 ERROR 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : A ERROR Message
+2022-09-09 10:52:59.253  INFO 24212 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-09-09 10:52:59.292  INFO 24212 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-09 10:53:36.919  INFO 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 24212 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-09 10:53:36.919  INFO 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-09-09 10:53:37.036  INFO 24212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-09 10:53:37.037  INFO 24212 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-09 10:53:37.037  INFO 24212 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 10:53:37.052  INFO 24212 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-09 10:53:37.052  INFO 24212 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 131 ms
+2022-09-09 10:53:37.091  INFO 24212 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-09 10:53:37.096  INFO 24212 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 10:53:37.098  INFO 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : Started MyFirstProjectApplication in 0.202 seconds (JVM running for 84.218)
+2022-09-09 10:53:37.099  INFO 24212 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-09-09 10:53:37.099  INFO 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : An INFO Message
+2022-09-09 10:53:37.099  WARN 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : A WARN Message
+2022-09-09 10:53:37.099 ERROR 24212 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : A ERROR Message
+2022-09-09 10:54:01.478  INFO 24212 --- [RMI TCP Connection(5)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-09-09 10:54:01.507  INFO 24212 --- [RMI TCP Connection(5)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-09 10:54:04.023  INFO 21020 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 21020 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-09 10:54:04.024  INFO 21020 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-09-09 10:54:04.062  INFO 21020 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-09 10:54:04.062  INFO 21020 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-09 10:54:04.722  INFO 21020 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-09 10:54:04.730  INFO 21020 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-09 10:54:04.730  INFO 21020 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 10:54:04.785  INFO 21020 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-09 10:54:04.785  INFO 21020 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 723 ms
+2022-09-09 10:54:05.011  INFO 21020 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-09 10:54:05.040  INFO 21020 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 10:54:05.047  INFO 21020 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : Started MyFirstProjectApplication in 1.323 seconds (JVM running for 1.94)
+2022-09-09 10:54:05.049  INFO 21020 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : An INFO Message
+2022-09-09 10:54:05.049  WARN 21020 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : A WARN Message
+2022-09-09 10:54:05.049 ERROR 21020 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : A ERROR Message
+2022-09-09 10:56:55.605  INFO 21020 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-09-09 10:56:55.642  INFO 21020 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-09 10:56:55 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 21020 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-09 10:56:55 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2022-09-09 10:56:55 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 10:56:55 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-09 10:56:55 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 10:56:55 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-09 10:56:55 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 149 ms
+2022-09-09 10:56:55 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-09-09 10:56:55 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 10:56:55 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - Started MyFirstProjectApplication in 0.228 seconds (JVM running for 172.811)
+2022-09-09 10:56:55 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-09-09 10:56:55 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - An INFO Message
+2022-09-09 10:56:55 [restartedMain] WARN  c.e.demo.MyFirstProjectApplication - A WARN Message
+2022-09-09 10:56:55 [restartedMain] ERROR c.e.demo.MyFirstProjectApplication - A ERROR Message
+2022-09-09 10:57:20 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-09-09 10:57:20 [Thread-7] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-09 10:57:20 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 21020 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-09 10:57:20 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2022-09-09 10:57:20 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 10:57:20 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-09 10:57:20 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 10:57:21 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-09 10:57:21 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 154 ms
+2022-09-09 10:57:21 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-09-09 10:57:21 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 10:57:21 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - Started MyFirstProjectApplication in 0.235 seconds (JVM running for 197.962)
+2022-09-09 10:57:21 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-09-09 10:57:21 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - An INFO Message
+2022-09-09 10:57:21 [restartedMain] WARN  c.e.demo.MyFirstProjectApplication - A WARN Message
+2022-09-09 10:57:21 [restartedMain] ERROR c.e.demo.MyFirstProjectApplication - A ERROR Message
+2022-09-09 10:57:32 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-09-09 10:57:32 [Thread-11] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-09 10:57:32 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 21020 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-09 10:57:32 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2022-09-09 10:57:32 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 10:57:32 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-09 10:57:32 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 10:57:32 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-09 10:57:32 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 126 ms
+2022-09-09 10:57:32 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-09-09 10:57:32 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 10:57:32 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - Started MyFirstProjectApplication in 0.191 seconds (JVM running for 209.849)
+2022-09-09 10:57:32 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-09-09 10:57:32 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - An INFO Message
+2022-09-09 10:57:32 [restartedMain] WARN  c.e.demo.MyFirstProjectApplication - A WARN Message
+2022-09-09 10:57:32 [restartedMain] ERROR c.e.demo.MyFirstProjectApplication - A ERROR Message
+2022-09-09 10:57:38 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-09-09 10:57:38 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-09-09 10:57:41.347  INFO 20152 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 20152 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-09 10:57:41.348  INFO 20152 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-09-09 10:57:41.386  INFO 20152 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-09 10:57:41.386  INFO 20152 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-09 10:57:42.044  INFO 20152 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-09 10:57:42.052  INFO 20152 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-09 10:57:42.052  INFO 20152 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 10:57:42.110  INFO 20152 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-09 10:57:42.111  INFO 20152 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 724 ms
+2022-09-09 10:57:42.351  INFO 20152 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-09 10:57:42.387  INFO 20152 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 10:57:42.394  INFO 20152 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : Started MyFirstProjectApplication in 1.361 seconds (JVM running for 1.988)
+2022-09-09 10:57:42.397  INFO 20152 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : An INFO Message
+2022-09-09 10:57:42.397  WARN 20152 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : A WARN Message
+2022-09-09 10:57:42.397 ERROR 20152 --- [restartedMain] c.e.demo.MyFirstProjectApplication       : A ERROR Message
+2022-09-09 10:58:30.912  INFO 20152 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-09-09 10:58:30.950  INFO 20152 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-09 10:58:31 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 20152 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-09 10:58:31 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2022-09-09 10:58:31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-09-09 10:58:31 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-09-09 10:58:31 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 10:58:31 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-09-09 10:58:31 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 150 ms
+2022-09-09 10:58:31 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-09-09 10:58:31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-09 10:58:31 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - Started MyFirstProjectApplication in 0.23 seconds (JVM running for 50.813)
+2022-09-09 10:58:31 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-09-09 10:58:31 [restartedMain] INFO  c.e.demo.MyFirstProjectApplication - An INFO Message
+2022-09-09 10:58:31 [restartedMain] WARN  c.e.demo.MyFirstProjectApplication - A WARN Message
+2022-09-09 10:58:31 [restartedMain] ERROR c.e.demo.MyFirstProjectApplication - A ERROR Message
+2022-09-09 10:59:03 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-09-09 10:59:03 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]

@@ -1,0 +1,6 @@
+#logging.level.root=DEBUG
+#logging.level.com.example.demo=WARM
+logging.file.name=spring_app_log_file.log
+logging.pattern.console=%d{yyyy-MM-dd HH:mm:ss} [-10%thread] %-5level %logger{36} - %-40msg%n
+logging.pattern.file=%d{yyyy-MM-dd HH:mm:ss} - %msg%n
+spring.output.ansi.enabled=ALWAYS

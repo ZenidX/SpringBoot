@@ -1,0 +1,3 @@
+#logging.level.root=DEBUG
+#logging.level.com.example.demo=WARM
+logging.file.name=C:/xavi/archivos/trabajo/universidad/fe/'FullStack Web'/SpringBoot/spring_app_log_file.log
