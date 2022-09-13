@@ -1,10 +1,10 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=4
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=my-first-project
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.7.3
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.example
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=11
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=my-first-project
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.example.demo

@@ -1,3 +1,0 @@
-#logging.level.root=DEBUG
-#logging.level.com.example.demo=WARM
-logging.file.name=pring_app_log_file.log
