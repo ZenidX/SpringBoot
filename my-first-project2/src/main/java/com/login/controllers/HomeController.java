@@ -1,36 +1,16 @@
 package com.login.controllers;
 
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.servlet.ModelAndView;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
-@Controller
-public class HomeController{
-	@GetMapping("/1")
-	public ModelAndView test() {
-		ModelAndView modelAndView = new ModelAndView();
-		modelAndView.setViewName("test1.html");
-		modelAndView.setStatus(HttpStatus.I_AM_A_TEAPOT);
-		return modelAndView;
-	}
-}
-/*
+import com.login.pojos.TextToJSON;
+
 @Controller
 public class HomeController{
 	@ResponseBody
-	@RequestMapping("/")
-	public String index() {
-		return "index.html";
+	@RequestMapping(path="/")
+	public TextToJSON test(){
+		return new TextToJSON("index.html");
 	}
 }
-
-@ResponseBody
-@Controller
-public class HomeController{
-	@RequestMapping("/")
-	public String index(){
-		return "index.html";
-	}
-}
-*/
