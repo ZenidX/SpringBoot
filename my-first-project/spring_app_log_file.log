@@ -242,3 +242,161 @@ Caused by: java.lang.Error: Unresolved compilation problems:
 2022-09-13 10:00:10.268  INFO 12328 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
 2022-09-13 10:00:10.268  INFO 12328 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2022-09-13 10:00:10.269  INFO 12328 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-09-13 10:09:14.938  INFO 12328 --- [RMI TCP Connection(15)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-09-13 10:09:14.949  INFO 12328 --- [RMI TCP Connection(15)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-13 10:09:14.950  INFO 12328 --- [RMI TCP Connection(15)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-09-13 10:09:26.835  INFO 20636 --- [restartedMain] com.login.MyFirstProjectApplication      : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 20636 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-13 10:09:26.836  INFO 20636 --- [restartedMain] com.login.MyFirstProjectApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-09-13 10:09:26.873  INFO 20636 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-13 10:09:26.873  INFO 20636 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-13 10:09:27.535  INFO 20636 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-13 10:09:27.543  INFO 20636 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-13 10:09:27.543  INFO 20636 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-13 10:09:27.605  INFO 20636 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-13 10:09:27.605  INFO 20636 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 731 ms
+2022-09-13 10:09:27.849  INFO 20636 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-13 10:09:27.875  INFO 20636 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-13 10:09:27.882  INFO 20636 --- [restartedMain] com.login.MyFirstProjectApplication      : Started MyFirstProjectApplication in 1.361 seconds (JVM running for 1.991)
+2022-09-13 10:09:27.884  INFO 20636 --- [restartedMain] com.login.MyFirstProjectApplication      : An INFO Message
+2022-09-13 10:09:27.884  WARN 20636 --- [restartedMain] com.login.MyFirstProjectApplication      : A WARN Message
+2022-09-13 10:09:27.884 ERROR 20636 --- [restartedMain] com.login.MyFirstProjectApplication      : A ERROR Message
+2022-09-13 10:09:37.038  INFO 20636 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-09-13 10:09:37.055  INFO 20636 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-13 10:09:40.078  INFO 21088 --- [restartedMain] com.login.MyFirstProjectApplication      : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 21088 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-13 10:09:40.080  INFO 21088 --- [restartedMain] com.login.MyFirstProjectApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-09-13 10:09:40.116  INFO 21088 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-13 10:09:40.116  INFO 21088 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-13 10:09:40.782  INFO 21088 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-13 10:09:40.790  INFO 21088 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-13 10:09:40.790  INFO 21088 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-13 10:09:40.852  INFO 21088 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-13 10:09:40.853  INFO 21088 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 737 ms
+2022-09-13 10:09:41.097  INFO 21088 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-13 10:09:41.123  INFO 21088 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-13 10:09:41.130  INFO 21088 --- [restartedMain] com.login.MyFirstProjectApplication      : Started MyFirstProjectApplication in 1.373 seconds (JVM running for 1.995)
+2022-09-13 10:09:41.132  INFO 21088 --- [restartedMain] com.login.MyFirstProjectApplication      : An INFO Message
+2022-09-13 10:09:41.132  WARN 21088 --- [restartedMain] com.login.MyFirstProjectApplication      : A WARN Message
+2022-09-13 10:09:41.132 ERROR 21088 --- [restartedMain] com.login.MyFirstProjectApplication      : A ERROR Message
+2022-09-13 10:09:44.281  INFO 21088 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-13 10:09:44.282  INFO 21088 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-09-13 10:09:44.283  INFO 21088 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-09-13 10:09:53.197  INFO 21088 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-09-13 10:09:53.217  INFO 21088 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-13 10:09:53.218  INFO 21088 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-09-13 10:09:55.054  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 2732 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-13 10:09:55.056  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-09-13 10:09:55.099  INFO 2732 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-13 10:09:55.099  INFO 2732 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-13 10:09:55.755  INFO 2732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-13 10:09:55.763  INFO 2732 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-13 10:09:55.763  INFO 2732 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-13 10:09:55.819  INFO 2732 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-13 10:09:55.819  INFO 2732 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 720 ms
+2022-09-13 10:09:56.062  INFO 2732 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-13 10:09:56.089  INFO 2732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-13 10:09:56.096  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : Started MyFirstProjectApplication in 1.359 seconds (JVM running for 1.999)
+2022-09-13 10:09:56.098  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : An INFO Message
+2022-09-13 10:09:56.099  WARN 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : A WARN Message
+2022-09-13 10:09:56.099 ERROR 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : A ERROR Message
+2022-09-13 10:09:57.785  INFO 2732 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-13 10:09:57.786  INFO 2732 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-09-13 10:09:57.786  INFO 2732 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-09-13 10:10:39.682  INFO 2732 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-09-13 10:10:39.706  INFO 2732 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-13 10:10:39.707  INFO 2732 --- [Thread-5] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-09-13 10:10:39.775  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 2732 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-13 10:10:39.775  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-09-13 10:10:39.907  INFO 2732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-13 10:10:39.907  INFO 2732 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-13 10:10:39.907  INFO 2732 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-13 10:10:39.924  INFO 2732 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-13 10:10:39.924  INFO 2732 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 147 ms
+2022-09-13 10:10:39.975  INFO 2732 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-13 10:10:39.981  INFO 2732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-13 10:10:39.984  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : Started MyFirstProjectApplication in 0.237 seconds (JVM running for 45.89)
+2022-09-13 10:10:39.985  INFO 2732 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-09-13 10:10:39.985  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : An INFO Message
+2022-09-13 10:10:39.985  WARN 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : A WARN Message
+2022-09-13 10:10:39.985 ERROR 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : A ERROR Message
+2022-09-13 10:10:40.344  INFO 2732 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-13 10:10:40.344  INFO 2732 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-09-13 10:10:40.347  INFO 2732 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-09-13 10:15:26.510  INFO 2732 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (1 addition, 1 deletion, 0 modifications)
+2022-09-13 10:15:26.541  INFO 2732 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-13 10:15:26.542  INFO 2732 --- [Thread-7] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-09-13 10:15:26.613  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 2732 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-13 10:15:26.614  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-09-13 10:15:26.730  INFO 2732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-13 10:15:26.730  INFO 2732 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-13 10:15:26.731  INFO 2732 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-13 10:15:26.748  INFO 2732 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-13 10:15:26.749  INFO 2732 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 133 ms
+2022-09-13 10:15:26.753  WARN 2732 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'homeController' defined in file [C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes\com\login\controllers\HomeController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.login.controllers.HomeController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	The public type HomeController must be defined in its own file
+
+2022-09-13 10:15:26.753  INFO 2732 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-09-13 10:15:26.759  INFO 2732 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-13 10:15:26.780 ERROR 2732 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'homeController' defined in file [C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes\com\login\controllers\HomeController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.login.controllers.HomeController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	The public type HomeController must be defined in its own file
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1334) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1232) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918) ~[spring-context-5.3.22.jar:5.3.22]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.22.jar:5.3.22]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.3.jar:2.7.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734) ~[spring-boot-2.7.3.jar:2.7.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.3.jar:2.7.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-2.7.3.jar:2.7.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) ~[spring-boot-2.7.3.jar:2.7.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) ~[spring-boot-2.7.3.jar:2.7.3]
+	at com.login.MyFirstProjectApplication.main(MyFirstProjectApplication.java:13) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.7.3.jar:2.7.3]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.login.controllers.HomeController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	The public type HomeController must be defined in its own file
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-5.3.22.jar:5.3.22]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1326) ~[spring-beans-5.3.22.jar:5.3.22]
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	The public type HomeController must be defined in its own file
+
+	at com.login.controllers.HomeController.<init>(Controller3.java:7) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211) ~[spring-beans-5.3.22.jar:5.3.22]
+	... 24 common frames omitted
+
+2022-09-13 10:15:43.670  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : Starting MyFirstProjectApplication using Java 17.0.4 on MSI-XAVI with PID 2732 (C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project\target\classes started by Admin in C:\Xavi\Archivos\Trabajo\Universidad\FE\FullStack Web\SpringBoot\my-first-project)
+2022-09-13 10:15:43.670  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-09-13 10:15:43.788  INFO 2732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-13 10:15:43.789  INFO 2732 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-13 10:15:43.789  INFO 2732 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-13 10:15:43.803  INFO 2732 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2022-09-13 10:15:43.803  INFO 2732 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 131 ms
+2022-09-13 10:15:43.846  INFO 2732 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-13 10:15:43.852  INFO 2732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-13 10:15:43.855  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : Started MyFirstProjectApplication in 0.233 seconds (JVM running for 349.78)
+2022-09-13 10:15:43.855  INFO 2732 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-09-13 10:15:43.856  INFO 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : An INFO Message
+2022-09-13 10:15:43.856  WARN 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : A WARN Message
+2022-09-13 10:15:43.856 ERROR 2732 --- [restartedMain] com.login.MyFirstProjectApplication      : A ERROR Message
+2022-09-13 10:15:48.756  INFO 2732 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
