@@ -16,22 +16,3 @@ public class Controller3{
 		return modelAndView;
 	}
 }
-/*
-@Controller
-public class HomeController{
-	@ResponseBody
-	@RequestMapping("/")
-	public String index() {
-		return "index.html";
-	}
-}
-
-@ResponseBody
-@Controller
-public class HomeController{
-	@RequestMapping("/")
-	public String index(){
-		return "index.html";
-	}
-}
-*/
